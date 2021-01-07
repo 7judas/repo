@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/7judas</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>shush.</name>
+			<url>https://7judas.github.io/repo/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
