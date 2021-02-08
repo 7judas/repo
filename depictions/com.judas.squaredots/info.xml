@@ -5,7 +5,6 @@
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
-			<maxiOS>13.3</maxOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,6 +12,7 @@
 	</dependencies>
 	<shortDescription>Cool rounded square page dots.</shortDescription>
 	<descriptionlist>
+		<description>iOS 7.0 > iOS 13.3</description>
 		<description>This tweak turns your normal page dots into rounded square dots.</description>
 	</descriptionlist>
 	<screenshots>
