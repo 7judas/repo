@@ -18,7 +18,7 @@ Section: Tweaks
 Maintainer: Judas
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.judas.squaredots_1.1.0-2+debug_iphoneos-arm
+Filename: ./debs/com.judas.squaredots_1.1.0-2_debug_iphoneos-arm
 Size: 4352
 MD5sum: 57148c84b674c42b76779f5a66d67650
 Description: This tweak turns your normal page dots into rounded square dots.
