@@ -33,9 +33,9 @@ Maintainer: @7judas
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.judas.nostalgicsiri_1.0-1+debug_iphoneos-arm.deb
-Size: 4458
+Size: 4450
 MD5sum: 6a0618588da9eb76ad002af9be41fea8
-Description: This tweak turns your normal page dots into rounded square dots.
+Description: Get that nostalgic feeling 
 Name: NostalgicSiri
 Author: @7judas
 Depiction: https://7judas.github.io/repo/depictions/?p=com.judas.nostalgicsiri
