@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Cool rounded square page dots.</shortDescription>
+	<shortDescription>Get that nostalgic feeling of hearing the old and glorious voice of Siri.</shortDescription>
 	<descriptionlist>
-		<description>iOS 7.0 > iOS 13.3</description>
-		<description>This tweak turns your normal page dots into rounded square dots.</description>
+		<description>iOS 7.0 > iOS 9</description>
+		<description>Get that nostalgic feeling.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
