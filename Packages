@@ -15,7 +15,7 @@ Depiction: https://7judas.github.io/repo/depictions/?p=org.xbmc.kodi
 Package: com.judas.squaredots
 Version: 1.1.0
 Section: Tweaks
-Maintainer: Judas
+Maintainer: @7judas
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.judas.squaredots_1.1.0-2_debug_iphoneos-arm.deb
@@ -26,4 +26,16 @@ Name: SquareDots
 Author: Judas
 Depiction: https://7judas.github.io/repo/depictions/?p=com.judas.squaredots
 
-
+Package: com.judas.nostalgicsiri
+Version: 1.0
+Section: Tweaks
+Maintainer: @7judas
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.judas.nostalgicsiri_1.0-1+debug_iphoneos-arm.deb
+Size: 4458
+MD5sum: 0ef14f32168b94f3ac33097b451d95c6
+Description: This tweak turns your normal page dots into rounded square dots.
+Name: NostalgicSiri
+Author: @7judas
+Depiction: https://7judas.github.io/repo/depictions/?p=com.judas.nostalgicsiri

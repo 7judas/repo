@@ -1,0 +1,33 @@
+<package>
+	<id>com.judas.nostalgicsiri</id>
+	<name>NostalgicSiri</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Cool rounded square page dots.</shortDescription>
+	<descriptionlist>
+		<description>iOS 7.0 > iOS 13.3</description>
+		<description>This tweak turns your normal page dots into rounded square dots.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>nostalgicsiri.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Patreon</name>
+			<url>https://www.patreon.com/7judas</url>
+			<iconclass>fa fa-money</iconclass>
+		</link>
+	</links>
+</package>
